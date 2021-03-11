@@ -11,7 +11,7 @@ desc: "hello!"
 ---
 Body text goes here in Markdown
 
-![Image title](images/filename.jpg -or- imageurl)
+![Image title](https://commons.wikimedia.org/wiki/File:Cat03.jpg)
    {:.image} <-- this tag is needed for image formatting and for Lightbox feature -->
 Image attribution / caption.
    {:.caption} <-- this tag is needed for caption formatting and for Lightbox feature -->
