@@ -30,7 +30,7 @@ After Mulholland secured the finance of the plan and central government’s supp
 
 In 1913, the LA Aqueduct was completed. The city hosted a ceremony as seen in the picture above. A lot of people were there celebrating the success of its construction; however, it took nearly a year and a half after the ceremony for the water to finally come from the Owens River to Los Angeles. A century later, the Los Angeles Aqueduct continues to be a major source of water for the city of Los Angeles, which provides an average year supplying 29% of the water needs for almost four million people.
 
-![Opening of the Los Angeles Aqueduct at Newhall spillway](images/merrygoround.jpeg)
+![Opening of the Los Angeles Aqueduct at Newhall spillway](images/LA_Aqueduct_opening_BW.png)
    {:.image} 
 “Opening of the Los Angeles Aqueduct at Newhall spillway” [Nov, 5, 1913], Los Angeles Area Chamber of Commerce Collection, 1890-1960, USC Digital Library,http://digitallibrary.usc.edu/cdm/singleitem/collection/p15799coll65/id/8248/rec/1 Accessed 1 April. 2021. / Opening of the Los Angeles Aqueduct at Newhall spillway
    {:.caption} 
