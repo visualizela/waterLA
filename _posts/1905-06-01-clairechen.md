@@ -6,10 +6,10 @@ categories: ["Los Angeles Aqueduct"]
 author: "Claire Chen" 
 lat: 34.38776889497346
 lng: -118.4985834756452
-headertitle: "Lippincott wrote a letter to William Mulholland on June 1st 1905."
-desc: "Lippincott's letter informed Mulholland that the Reclamation Services was giving up the irrigation project and advised him to get political support for the LA aqueduct."
----
-![The Three Fathers of the Aqueduct Meet to Consider Their Plans](The_three_fathers_of_the_aqueduct_meet_to_consider_their_plans.jpg)
+headertitle: 
+desc: "Lippincott wrote a letter to William Mulholland on June 1st 1905."
+
+![The Three Fathers of the Aqueduct Meet to Consider Their Plans](images/The_three_fathers_of_the_aqueduct_meet_to_consider_their_plans.jpg)
    {:.image} 
 Courtesy of DWP Photo Collection, Los Angeles Public Library, calisphere.org/item/2990c37647e40b5daa7cab1903415d07/ / William Mulholland, Fred Eaton, and Joseph Lippincott sit together and discuss their water plans for LA. 
    {:.caption} 
@@ -18,14 +18,14 @@ Courtesy of DWP Photo Collection, Los Angeles Public Library, calisphere.org/ite
 
 "Lippincott worked as a private consultant for LA and as an engineer for the federal government simultaneously. Though he was part of the Reclamation Service, Lippincott’s real interests were for LA to secure the water and land rights necessary for the aqueduct project. In March 1905, he accepted a payment of $2,500 for completing an assignment for the LA Board of Water Commissions, which was more than half of his salary from the government. The money that LA granted him affected his decision to help Mulholland and Eaton’s vision for LA. Lippincott’s conflict of interest came into light when the Reclamation Service fully withdrew from the irrigation project to make way for LA."
 
-![Los Angeles Aqueduct to Owens Valley](Los_Angeles_Aqueduct_to_Owens_Valley.jpg)
+![Los Angeles Aqueduct to Owens Valley](images/Los_Angeles_Aqueduct_to_Owens_Valley.jpg)
    {:.image} 
 Courtesy of Los Angeles Public Library Photo Collection, Los Angeles Public Library, https://calisphere.org/item/5a23a992775718e26b441ab0a9cc2e62/ / William Mulholland and Joseph Lippincott stand with other engineers to plan the LA aqueduct.
    {:.caption} 
 
 "When an emergency at the Colorado River occurred in early 1905, Lippincott and his crew of engineers had to leave Owens Valley. Since he needed an engineer to check on power applications in the Owens Valley, Lippincott conveniently hired Fred Eaton to work on this task. While Eaton did help the irrigation project, he also collected information about water rights and ownership, which enabled him to buy the lands he needed for the LA aqueduct. Additionally, Lippincott wrote to a letter of introduction to Eaton that allowed him to pose as an agent of the Reclamation Services. His letter was also used as a guide to point out which lands Eaton would be purchasing for the city."
 
-![Letter from Joseph Barlow Lippincott to William Mulholland](cwd_13530.jpg)
+![Letter from Joseph Barlow Lippincott to William Mulholland](images/cwd_13530.jpg)
    {:.image} 
 Courtesy of California Water Documents, Claremont Colleges Library, https://calisphere.org/item/a10b80155b72b8a8314fd783a4c9f9dc/ / Joseph Lippincott's letter about the Reclamation Services abandoning the irrigation system and recommending Mulholland to go forth with the LA aqueduct. 
    {:.caption} 
