@@ -12,7 +12,7 @@ desc: "Row of automobies damaged by St. Franics flood."
 ---
 Body text goes here in Markdown
 
-![Row of automobiles damaged by the flood that followed the failure of the Saint Francis Dam](images/RowofautomobilesdamagedbythefloodthatfollowedthefailureoftheSaintFrancisDam.png)
+![Row of automobiles damaged by the flood that followed the failure of the Saint Francis Dam](images/RowofautomobilesdamagedbyStFranicsflood.png)
    {:.image} 
 [Image from UCLA Department of Special Collections, UCLA Digital Library]
    {:.caption} 
@@ -26,7 +26,7 @@ San Francisquito Canyon and the dam was known as the St. Francis Dam. The St. Fr
 feet and 700 feet in its curvature. William Mulholland oversaw the entire project and was solely built by Los Angeles Bureau of
 Waterworks."
 
-![St. Francis Dam Completed](images/St.FrancisDamCompleted.jpeg)
+![St. Francis Dam Completed](images/StFrancisDamCompleted.jpg)
    {:.image} 
 [Image provided by LA's Public Library Photo Collection]
    {:.caption} 
@@ -36,7 +36,7 @@ be built and after two years of its construction, the dam unfortunately collapse
 million dollars in damages. The St. Francis Dam collapse is the "worst American civil engineering disaster of 
 the 20th century" due to the resulting damages."
 
-![Image title](images/Mulholland.jpeg)
+![Image title](images/Mulholland.png)
    {:.image} 
 [Image provided by The Daily Beast]
    {:.caption} 
