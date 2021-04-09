@@ -10,7 +10,7 @@ headertitle: "Destroyed Automobiles"
 
 desc: "Row of automobies damaged by St. Franics flood."
 ---
-Body text goes here in Markdown
+
 
 ![Row of automobiles damaged by the flood that followed the failure of the Saint Francis Dam](images/RowofautomobilesdamagedbyStFranicsflood.png)
    {:.image} 
@@ -53,7 +53,7 @@ the left side foundation rock of the dam was not suited for being a foundation a
 left side. This destabilized the right side of the dam, causing the whole dam to collapse."
 
 
-![Image title](images/LosAngelesSlumsInTheGreatDepression.jpeg)
+![Image title](images/LosAngelesSlumsInTheGreatDepression.png)
    {:.image} 
 [Image provided by UCLA Department of Special Collections, UCLA Digital Library
    {:.caption} 
