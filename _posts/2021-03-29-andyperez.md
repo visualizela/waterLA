@@ -67,8 +67,7 @@ did not help."
 loss of life and infrastructure"
 
 #### Works cited
-
-{:.bibliography} <-- this tag is needed for bibliography formatting -->
+{:.bibliography} 
 1. Carle, David. Water and the California Dream. Counterpoint, 2016.
 2. "Case Study: St. Francis Dam." Lessons Learned, damfailures.org/case-study/st-francis-dam-california-1928/
 Accessed 27 Mar. 2021
