@@ -6,11 +6,11 @@ categories: ["los angeles" "river" "la river" "bridge"]
 author: "Quetzalli Vergara"
 lat: 34.0385
 lng: -118.2281
-headertitle: ""
+headertitle: 
 desc: "Los Angeles River Channelized"
 ---
 
-![Truck in Los Angeles River] (Truck_in_Los_Angeles_River_1952_qv.jpg)
+![Truck in Los Angeles River](images/Truck_in_Los_Angeles_River_1952_qv.jpg)
    {:.image} 
  Taken between the 6th Street and 7th Street bridges 13 January 1952, Los Angeles Examiner Negatives Collection,
    {:.caption} 
@@ -18,7 +18,7 @@ desc: "Los Angeles River Channelized"
 This photo was taken on January 13th, 1952, between the 6th and 7th bridge, capture the image of Mike Mechikoff, inspecting Mechikoff's truck stuck in the Los Angeles River flow after a long night of rain and downpour filled the Los Angeles River Channel. 
 Sixth Street Bridge, also known as Six Street Viaduct was built in 1932 and served as an important transportation cross for neighborhoods outside of downtown Los Angeles in the East LA/ Boyle Heights area. The Seventh Street Bridge was built in 1910 as a trolley bridge in Los Angeles' early dates of suburban expansion. 
 
-![Truck in Los Angeles River](Truck_in_Los_Angeles_River_between_the_6th_Street_and_7th_Street_bridges_1952_qv.jpg)
+![Truck in Los Angeles River](images/Truck_in_Los_Angeles_River_between_the_6th_Street_and_7th_Street_bridges_1952_qv.jpg)
  {:.image} 
 Taken between the 6th Street and 7th Street bridges 13 January 1952, Los Angeles Examiner Negatives Collection,
 {:.caption} 
@@ -26,7 +26,7 @@ Taken between the 6th Street and 7th Street bridges 13 January 1952, Los Angeles
 
 The night before, storm clouds grew over Southern California, and temperatures dropped nearly 10 degrees. (LA Times, 1952) Los Angeles's USC and Downtown Areas recorded up to 7 inches of rain on that night alone leading into the morning. At the time, Los Angeles was going through its periodic dry spell. The previous year showed only 4 inches of rain year-round. 
 
-![Flooded streets, rain, and high water ](Flooded_streets_rain_and_high_water_1952_qv.jpg)
+![Flooded streets, rain, and high water ](images/Flooded_streets_rain_and_high_water_1952_qv.jpg)
    {:.image}
 Olmo, Mitchell, Flooded streets, rain, and high water, 12 January 1952, Los Angeles Examiner Negatives Collection
    {:.caption} 
@@ -41,10 +41,11 @@ Within the next two years, LA Flood Association envisioned an extensive flood co
 #### Works cited
 
 {:.bibliography} 
-Gumprecht, Blake. The Los Angeles River: Its Life, Death, and Possible Rebirth. United Kingdom, Johns Hopkins University Press, 2001.
 
-Carle, David. Water and the California Dream: Historic Choices for Shaping the Future. United States, Counterpoint, 2016.
+1. Gumprecht, Blake. The Los Angeles River: Its Life, Death, and Possible Rebirth. United Kingdom, Johns Hopkins University Press, 2001.
 
-Carr, J A. “A WINTER STORM AT LOS ANGELES, CALIFORNIA .” WBAN Analysis Center, U. S. Weather Bureau, Washington, D. C., Jan. 1952.
+2. Carle, David. Water and the California Dream: Historic Choices for Shaping the Future. United States, Counterpoint, 2016.
+
+3. Carr, J A. “A WINTER STORM AT LOS ANGELES, CALIFORNIA .” WBAN Analysis Center, U. S. Weather Bureau, Washington, D. C., Jan. 1952.
  
-“Weather Report.” Los Angeles Times, Los Angeles 13 Jan. 1952, p. 78.
+4. “Weather Report.” Los Angeles Times, Los Angeles 13 Jan. 1952, p. 78.
