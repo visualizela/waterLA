@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Campaign for the Construction of the Colorado River Aqueduct"
