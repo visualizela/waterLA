@@ -3,13 +3,13 @@ layout: post
 title: "Los Angeles Aqueduct Map"
 timelinedate: 1903-10-01
 categories: ["Los Angeles Aqueduct"]
-author: "Jerrod Rabenbauer”
+author: "Jerrod Rabenbauer" 
 lat: 34.0390924
 lng: -118.2354541
-headertitle: "Original Map of Los Angeles Aqueduct"
+headertitle: 
 desc: "Prior to its construction, the Los Angeles Aqueduct underwent several revisions throughout architectural development; the original map illustrates its initial design."
-
 ---
+
 
 ![Original Map of Los Angeles Aqueduct] (https://tessa.lapl.org/utils/ajaxhelper/?CISOROOT=photos&CISOPTR=2514&action=2&DMSCALE=60&DMWIDTH=177&DMHEIGHT=480&DMX=0&DMY=0&DMTEXT=&DMROTATE=0)
    {:.image} 
