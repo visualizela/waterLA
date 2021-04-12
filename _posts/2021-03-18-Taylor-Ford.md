@@ -34,11 +34,10 @@ Between 1815 and 1941, Los Angeles faced several drastic and extremely destructi
 #### Works cited
 
 {:.bibliography} 
-
-1. “California's Risk of a Flooding Catastrophe – in Los Angeles.” Advanced Science News, 10 Feb. 2020, www.advancedsciencenews.com/californias-risk-of-a-flooding-catastrophe-in-los-angeles/#:~:text=Hence%2C%20the%20Los%20Angeles%20region,like%20need%20emergency%20aid%20and.
+1.“California's Risk of a Flooding Catastrophe – in Los Angeles.” Advanced Science News, 10 Feb. 2020, www.advancedsciencenews.com/californias-risk-of-a-flooding-catastrophe-in-los-angeles/#:~:text=Hence%2C%20the%20Los%20Angeles%20region,like%20need%20emergency%20aid%20and.
  
 2.Frampton, Robert. “Flood, March 1938: newspaper clippings, volume 13.” California Water Documents, Honnold Mudd Library, 1938, pp. 1-7. https://calisphere.org/item/588e6c46413fff2b81a7f0ac224e5669/.
 
 3.Lin, Ron-Gong. “The 'Nightmare' California Flood More Dangerous than a Huge Earthquake.” Los Angeles Times, Los Angeles Times, 26 Mar. 2018, www.latimes.com/local/california/la-me-california-flood-20180325-htmlstory.html. 
 
-4. Van Wormer, Stephen. “A History of Flood Control in the Los Angeles County Drainage Area.” Southern California Quarterly, vol. 73, no. 1, 1991, pp. 55–94., doi:https://doi.org/10.2307/41171560. 
+4.Van Wormer, Stephen. “A History of Flood Control in the Los Angeles County Drainage Area.” Southern California Quarterly, vol. 73, no. 1, 1991, pp. 55–94., doi:https://doi.org/10.2307/41171560. 
