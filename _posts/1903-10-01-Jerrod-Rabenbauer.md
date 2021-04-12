@@ -8,7 +8,9 @@ lat: 34.0390924
 lng: -118.2354541
 headertitle: "Original Map of Los Angeles Aqueduct"
 desc: "Prior to its construction, the Los Angeles Aqueduct underwent several revisions throughout architectural development; the original map illustrates its initial design."
+
 ---
+
 ![Original Map of Los Angeles Aqueduct] (https://tessa.lapl.org/utils/ajaxhelper/?CISOROOT=photos&CISOPTR=2514&action=2&DMSCALE=60&DMWIDTH=177&DMHEIGHT=480&DMX=0&DMY=0&DMTEXT=&DMROTATE=0)
    {:.image} 
 Drawn in 1903 and digitized in 1936, this map sets the groundwork for anticipated construction regarding the LA Aqueduct project.
@@ -34,8 +36,6 @@ The aftermath of the sabotage occurring in May 1924.
 
 
 Since the conduit pulled water directly from Owen’s Lake, the water source for the agriculturally abundant Owen’s Valley, the entire area was soon decimated from the lack of resources needed for irrigation and rich soil; by 1926, only 13 years after the completion of the Los Angeles Aqueduct, the once brimful Owen’s Lake was considered to be dry (Reheis M.C., 1991-1994). Despite the negative impact on the source’s environment, Los Angeles’ population growth became increasingly exponential, seeing a population of over 1.2 million residents by 1930, resulting in tenfold growth since the aqueduct was put in use (Los Angeles Almanac, 2021). With this increasing demand for water, Mulholland along with the city of Los Angeles would later develop two extensions to this aqueduct named the Second Los Angeles Aqueduct and the Mono Basin Extension, furthermore increasing Los Angeles’ foothold on California’s water supply.
-
-
 
 
 {:.bibliography} 
