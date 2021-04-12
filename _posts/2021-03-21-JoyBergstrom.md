@@ -11,9 +11,9 @@ desc: "Colorado River Aqueduct Pumps"
 ---
 
 ![Pumping Station for the Colorado River Aqueduct](images/PumpingStationfortheColoradoRiverAqueduct_JB.jpg)
-   {:.image} <-- this tag is needed for image formatting and for Lightbox feature -->
+   {:.image} 
 [Image via California Historical Society Collection,1860-1960, USC Digital Libraries](http://digitallibrary.usc.edu/cdm/singleitem/collection/p15799coll65/id/11465/rec/6)
-   {:.caption} <-- this tag is needed for caption formatting and for Lightbox feature -->
+   {:.caption} 
 
 This image was taken in 1942 on the Colorado River Aqueduct, right after it was completed with the hope to ease water limitations in the southern California area, a goal it was able to help complete.
 
