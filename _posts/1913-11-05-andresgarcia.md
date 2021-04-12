@@ -36,8 +36,10 @@ A photo of construction workers posing in front of a portion of the aqueduct. Th
 
 "After six whole years, excitement surrounding the aqueduct and, more importantly, new water in Los Angeles, had reached its peak. As such, the opening of the Los Angeles Aqueduct on November 5, 1913 was considered an event of the highest caliber. It was a celebration, with music, fireworks, and 30-40 thousand people in attendance, ready to see the freshwater finally reach the San Fernando Valley. The atmosphere was electric and vibrant; it was joy in the purest sense. When the water finally hit Los Angeles, Mulholland exclaimed “There it is, take it!”"
 
-![People Line Up for the LA Aqueduct](https://waterandpower.org/Historical_DWP_Photo_Collection_LA_Public_Library/Opening_Day_at_the_Cascades.jpg)
-   {:.image} 
+![People Line Up for the LA Aqueduct}(https://waterandpower.org/Historical_DWP_Photo_Collection_LA_Public_Library/Opening_Day_at_the_Cascades.jpg)
+
+{:.image} 
+  
 People lined up on the edges of the aqueduct, in order to get a good view of the flowing water. This image is from Water and Power Associates.
    {:.caption} 
 
