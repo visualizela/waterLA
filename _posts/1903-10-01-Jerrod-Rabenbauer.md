@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Los Angeles Aqueduct Map"
 timelinedate: 1903-10-01
