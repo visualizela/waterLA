@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "My post about water"
+title: "Destroyed Automobiles"
 timelinedate: 2021-03-18
 categories: ["Water"]
 author: "Andy Perez"
 lat: 34.0573061
 lng: -118.3109306
-headertitle: "Destroyed Automobiles"
+headertitle: 
 
 desc: "Row of automobies damaged by St. Franics flood."
 ---
@@ -68,12 +68,12 @@ loss of life and infrastructure"
 
 #### Works cited
 {:.bibliography} 
-1. Carle, David. Water and the California Dream. Counterpoint, 2016.
-2. "Case Study: St. Francis Dam." Lessons Learned, damfailures.org/case-study/st-francis-dam-california-1928/
+1.Carle, David. Water and the California Dream. Counterpoint, 2016.
+2."Case Study: St. Francis Dam." Lessons Learned, damfailures.org/case-study/st-francis-dam-california-1928/
 Accessed 27 Mar. 2021
-3. "Los Angeles slums in the Great Depression." UCLA, dl.library.ucla.edu/islandora/object/edu.ucla.library.specialCollections.losAngelesDailyNews:469
+3."Los Angeles slums in the Great Depression." UCLA, dl.library.ucla.edu/islandora/object/edu.ucla.library.specialCollections.losAngelesDailyNews:469
 Accessed 29 Mar. 2021
-4. "St. Francis Dam Intact." SCV History, scvhistory.com/scvhistory/la2801.htm
+4."St. Francis Dam Intact." SCV History, scvhistory.com/scvhistory/la2801.htm
 Accessed 27 Mar. 2021
-5. "William Mulholland Gave Water to LA and Inspired Chinatown." The Daily Beast, thedailybeast.com/william-mulholland-gave-water-to-la-and-inspired-chinatown
+5."William Mulholland Gave Water to LA and Inspired Chinatown." The Daily Beast, thedailybeast.com/william-mulholland-gave-water-to-la-and-inspired-chinatown
 Accessed 27 Mar. 2021
