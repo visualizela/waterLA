@@ -1,11 +1,12 @@
+
 ---
 layout: post
 title: "Campaign for the Construction of the Colorado River Aqueduct"
-timelinedate: 1931-08-14
-categories: ["Colorado River Aqueduct" "Campaign” “USC” “Propaganda” “Los Angeles”]
+timelinedate: 
+categories: 
 author: "Liyang Guo"
-Lat: 34.0224
-Lng: -118.2851
+lat: 34.0224
+lng: -118.2851
 headertitle: 
 desc: "An article in support of the construction of the Colorado River Aqueduct in the Trojan newspaper."
 ---
