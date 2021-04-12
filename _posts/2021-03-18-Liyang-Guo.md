@@ -49,7 +49,8 @@ The overwhelming propagandas, paired with the desire for a new project due to th
 #### Works cited
 
 {:.bibliography} 
-1. City of Torrance, City Hall. “1930s: A Changing Economic Landscape.” 1930s: A Changing Economic Landscape | City of Torrance, www.torranceca.gov/our-city/about-torrance/1930s. Accessed March 31, 2021.
+
+1. City of Torrance, City Hall. “1930s: A Changing Economic Landscape.” 1930s: A Changing Economic Landscape. City of Torrance, www.torranceca.gov/our-city/about-torrance/1930s. Accessed March 31, 2021.
 2. Kinsey, Don. “Thirst.” YouTube, YouTube, 2 Nov. 2015, www.youtube.com/watch?v=C5H2l9p99HA. Accessed March 31, 2021. 
 3. Newcomb, Jim. Wine History - Southern California, Part One, arrowheadwine.blogspot.com/2013/10/wine-history-southern-california-part.html. Accessed March 31, 2021.
 4. Water and Power Associates, Inc. “A Second Aqueduct - 1970.” Water and Power Associates, waterandpower.org/museum/A_Second_Aqueduct.html. Accessed March 31, 2021.
