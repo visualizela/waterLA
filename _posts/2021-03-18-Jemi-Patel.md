@@ -13,14 +13,14 @@ Los Angeles has a long history of flooding that has been recorded since the arri
 
 However, flood control works had started too late. In “The Los Angeles River, Its Life, Death, and Possible Rebirth”, Gumprecht described rain starting on February 27, 1938 and intensifying a few days later. Places like the San Gabriel Mountains had received more than 32 inches of rain, an amount they would receive in an entire year. Runoff down the mountains was intense with the ground already saturated. It was a catastrophe in the making. Los Angeles received 6.3 inches of rain in just 24 hours – the 2nd highest in history. The Los Angeles River’s flood discharge was the greatest on record. The reservoirs behind every dam were overflowing. As a result, the river’s tributaries like Tujunga Wash overflowed heavily. 
 
-![Tujunga Wash Flood Aftermath](images/TujungaWashOverfow_JP.jpg)
+![Tujunga Wash Flood Aftermath](images/TujungaWashOverflow_JP.jpg)
    {:.image} 
 [Courtesy of the San Fernando Valley History Photographic Collection, California State University, Northridge, 1938-03-04 (issued),] (https://calisphere.org/item/ed7eca19c60936dcc677ca7ddb265154/). Tujunga Wash, a tributary to the Los Angeles River, overflows in the northern part of the city. In the process, flood protection is destroyed. 
    {:.caption} 
 
 The flooding was catastrophic. The United States Army Corps of Engineers was in charge of building flood control structures throughout Los Angeles. Certain flood protections like sandbags and regular concrete were inadequate at stopping the overflow. Reinforced concrete, with paved banks and bottoms, became the most effective form of flood protection. Only a few areas throughout Los Angeles had completed flood control.  Areas located downstream of the Los Angeles River suffered the most damages as flood construction was least developed there. 
 
-![Destruction of Lankershim Blvd Bridge](images/LankershimAveBridge _JP.jpg)
+![Destruction of Lankershim Blvd Bridge](images/LankershimAveBridge_JP.jpg)
    {:.image} 
 [Courtesy of the San Fernando Valley History Photographic Collection, California State University, Northridge, 1938-03-07 (issued),](https://calisphere.org/item/4b384b2bebf2832c637a05029985b6fd/). The Lankershim Bridge collapses from the overflowing Los Angeles River.
    {:.caption} 
