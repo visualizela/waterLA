@@ -29,7 +29,7 @@ On March 2, 1938, cascading floods destroyed the 250-foot concrete Lankershim Br
 
 ![Channel Road Reconstruction](images/ChannelRoadReconstruction_JP.jpeg)
    {:.image} 
-[Courtesy of the Palisades Historical Image Collection, Santa Monica Public Library, 1938 (issued),] (https://calisphere.org/item/8f5b9db7581f5965e1eec2c39c3bb068/).Reconstruction in Los Angeles after a third of the city is flooded
+[Courtesy of the Palisades Historical Image Collection, Santa Monica Public Library, 1938 (issued),](https://calisphere.org/item/8f5b9db7581f5965e1eec2c39c3bb068/). Reconstruction in Los Angeles after a third of the city is flooded
    {:.caption} 
 
 Los Angeles was devastated after the 1938 flood. The public demanded more flood control investments to be put in place. The United States Army Corps of Engineers supervised the flood control process. River channels were widened, and the riverbanks were cemented. Gumpecht stated “278 miles of river and tributaries were retrofitted, and more than 300 bridges were built”. Los Angeles had finally taken the steps to prevent another catastrophic flood. Damages totaled to $78 million($1.42 billion in today’s money). 
