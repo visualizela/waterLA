@@ -11,7 +11,7 @@ desc: "Intense flooding in Los Angeles is a staple of the city, destroying homes
 ---
 ![Bridge Fallen In LA River](images/Bridge_fallen_in_LA_River_SK.jpg)
    {:.image}
-Courtesy of  Los Angeles Public Library Photo Collection, Los Angeles Public Library, 1941, https://calisphere.org/item/aa7e3f5b39d75e96666f913dbf63ee58/ / The fallen Santa Fe railroad bridge from intense flooding in 1941 that undermined the concrete base.
+[Courtesy of  Los Angeles Public Library Photo Collection, Los Angeles Public Library, 1941,](https://calisphere.org/item/aa7e3f5b39d75e96666f913dbf63ee58/). The fallen Santa Fe railroad bridge from intense flooding in 1941 that undermined the concrete base.
    {:.caption}
   
 As surprising as it may be, flooding was a big part of Los Angeles’s water history. Los Angeles geography and rainfall patterns paired with its exponential urbanization in the 20th century made the LA county a perfect mix for intense flooding that was able to destroy seemingly robust infrastructure, as shown in the picture above. Despite many tries of the county to build flood-proof infrastructure, there was a continuous pattern in the 19th to 20th century of intense flooding, destruction, and rebuilding with not enough protection from the next flood.
@@ -20,14 +20,14 @@ Intense flooding has always been a defining characteristic of Los Angeles’s cl
 
 ![Boulder From Flood](images/Boulder_From_Flood_SK.png)
    {:.image}
-Courtesy of Los Angeles Times Photographic Archives, UCLA, Library Special Collections, Charles E. Young Research Library, https://calisphere.org/item/ark:/21198/zz002cthhd/ / After a large flood in La Crescenta-Montrose, a large boulder carried by flood waters sits on the side of a road.
+[Courtesy of Los Angeles Times Photographic Archives, UCLA, Library Special Collections, Charles E. Young Research Library,](https://calisphere.org/item/ark:/21198/zz002cthhd/). After a large flood in La Crescenta-Montrose, a large boulder carried by flood waters sits on the side of a road.
    {:.caption}
    
 As the Los Angeles population was growing exponentially in the 19th century, urban developments spread closer to the mountains putting them at greater danger for flood damage. The concrete and impervious ground cover used in developments in Los Angeles allowed flood water to travel further as they could not soak back into the ground  easily. 
 
 ![Anaheim Flooding](images/Anaheim_Flooding_SK.png)
    {:.image}
-Courtesy of Anaheim Public Library photograph collection on Anaheim local history, Anaheim Public Library, March 4, 1941 (issued), https://calisphere.org/item/ark:/13030/kt538nc6nh/ / Flood waters running over impervious surfaces in 1941 in Anaheim.
+[Courtesy of Anaheim Public Library photograph collection on Anaheim local history, Anaheim Public Library, March 4, 1941 (issued),](https://calisphere.org/item/ark:/13030/kt538nc6nh/). Flood waters running over impervious surfaces in 1941 in Anaheim.
    {:.caption}
    
 Damages for floods in the 1800s were notable, but not nearly as destructive as those in the early to mid 1900s where there was more infrastructure but not a proportional amount of flood protection. The county of Los Angeles was aware of this discrepancy and started haphazard attempts at flood protection (such as levees, check dams, and debris basins) with the limited funding they received from small bond measures and municipal taxes. However, the continuous increase in urban development offset these early flood control measures. It was not until the 1930s when massive floods struck and the LA county received federal support, funding, and assistance from Flood Control Acts and the Army Corps of Engineers to remedy flooding problems. 
