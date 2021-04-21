@@ -14,7 +14,7 @@ Los Angeles’s quest for water in the late-1800s and early-1900s was surprising
 
 ![Occupation fo The Alabama Gates, Los Angeles Aqueduct, Owens Valley, California](images/OccupationofAlabamaGates_GG.jpg)
    {:.image} 
-Image courtesy of J.D. Black Papers, Loyola Marymount University, Department of Archives and Special Collections, William H. Hannon Library, Los Angeles, CA., https://calisphere.org/item/df8d99b6e90df9a7483eb6d213b22e62 //Image of Owens Valley residents lined up along the Alabama Gates in protest of the Owens River diversion
+[Image courtesy of J.D. Black Papers, Loyola Marymount University, Department of Archives and Special Collections, William H. Hannon Library, Los Angeles, CA.,](https://calisphere.org/item/df8d99b6e90df9a7483eb6d213b22e62). Image of Owens Valley residents lined up along the Alabama Gates in protest of the Owens River diversion
    {:.caption} 
 
 The altercation began when a group of 60 outraged Owens Valley ranchers and farmers seized the Alabama Gates by violently threatening and kicking out the guards. Then, they proceeded to open the gates and let water flow into the Owens riverbed, which had dried up from extensive diversions. News of the takeover spread and soon over 700 Owens Valley residents came to Inyo County to protest. As the picture depicts, protestors blocked the gate’s entrance, preventing LA officials from closing the gates to the Owens River. After 5 days, the standoff came to an end when a mediation panel, with 3 state judges, was created to resolve the claims of the Owens Valley residents. Claims that were made due to multiple hardships residents faced from one root cause: the LA Aqueduct.
