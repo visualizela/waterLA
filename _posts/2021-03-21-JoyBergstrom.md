@@ -43,8 +43,8 @@ All of these developments made in the Southern California region were made possi
 
 1.Carle, David. Water and the California Dream. Counterpoint, 2016.
 
-2.“Construction of the Colorado River Aqueduct.” Water and Power Associates, waterandpower.org/museum/Colorado%20River%20Aqueduct.html. Accessed 23 Mar. 2021.
+2.[Construction of the Colorado River Aqueduct. Water and Power Associates,](waterandpower.org/museum/Colorado%20River%20Aqueduct.html). Accessed 23 Mar. 2021.
 
-3.“History.” The Metropolitan Water District of Southern California, www.mwdh2o.com/WhoWeAre/History/Pages/default.aspx. Accessed 23 Mar. 2021.
+3.[History. The Metropolitan Water District of Southern California,](www.mwdh2o.com/WhoWeAre/History/Pages/default.aspx). Accessed 23 Mar. 2021.
 
-4.“Modern Marvels: Colorado River Aqueduct.” Thirteen, 24 July 2018, www.thirteen.org/programs/10-that-changed-america/modern-marvels-colorado-river-aqueduct-zxyo6i/. Accessed 23 Mar. 2021.
+4.[Modern Marvels: Colorado River Aqueduct. Thirteen, 24 July 2018,](www.thirteen.org/programs/10-that-changed-america/modern-marvels-colorado-river-aqueduct-zxyo6i/). Accessed 23 Mar. 2021.
