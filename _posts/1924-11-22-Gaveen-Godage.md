@@ -12,8 +12,9 @@ desc: "Protest by Owens Valley residents at the Alabama Gates due to excessive d
 
 Los Angeles’s quest for water in the late-1800s and early-1900s was surprisingly not peaceful and smooth, but rather turbulent, problematic, and at times even violent. The archival photograph below highlights a tense standoff between the city of LA and protestors, from the Owens Valley, at the Alabama Gates part of the Los Angeles Aqueduct. The picture was taken by Detrick Bishop in November of 1924.
 
-![Occupation fo The Alabama Gates, Los Angeles Aqueduct, Owens Valley, California](images/OccupationofAlabamaGates_GG.jpg)
+![Occupation of The Alabama Gates, Los Angeles Aqueduct, Owens Valley, California](images/OccupationofAlabamaGates_GG.jpg)
    {:.image} 
+   
 [Image courtesy of J.D. Black Papers, Loyola Marymount University, Department of Archives and Special Collections, William H. Hannon Library, Los Angeles, CA.,](https://calisphere.org/item/df8d99b6e90df9a7483eb6d213b22e62). Image of Owens Valley residents lined up along the Alabama Gates in protest of the Owens River diversion
    {:.caption} 
 
@@ -23,6 +24,7 @@ In order to understand what provoked the anger of the Owens Valley residents, we
 
 ![Dredger at work in first twenty miles of aqueduct, Owens Valley, Los Angeles Aqueduct construction](images/DredgeratWorkinOwensValley_GG.jpg)
    {:.image} 
+   
 [Image courtesy of California Historical Society Collection, 1860-1960, USC Libraries Special Collections, Doheny Memorial Library, Los Angeles, CA.,](https://calisphere.org/item/647b7f7a736a2f7438dfb079f5dbdd9d/) Image of dredger and other industrial equipment used by the city of LA during the construction of the LA aqueduct 
    {:.caption} 
 
