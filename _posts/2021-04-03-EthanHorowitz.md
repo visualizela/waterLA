@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coloraco Rive Aqueduct Map"
+title: "Coloraco River Aqueduct Map"
 timelinedate: 2021-03-18
 categories: []
 author: "Ethan Horowitz"
