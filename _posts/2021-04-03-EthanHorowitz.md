@@ -52,11 +52,18 @@ This project cost lives and millions of dollars, but it also showed LA’s deter
 
 
 {:.bibliography} 
-1.California Historical Society Collection. “View Down the Los Angeles River.” USC Digital Library, 2015, digitallibrary.usc.edu/cdm/singleitem/collection/p15799coll65/id/23433/rec/8. 
-2.Colorado River Aqueduct, American Society of Civil Engineers (ASCE), www.asce.org/project/colorado-river-aqueduct/. 
-3.Gumprecht, Blake. The Los Angeles River: Its Life, Death, and Possible Rebirth. Johns Hopkins University Press,2001. 
-4.S., & M. (n.d.). Colorado Aqueduct Progress [Map]. Ontario: Robert E. Ellingwood Model Colony History Room. Retrieved March 09, 2021, from https://ccdl.claremont.edu/digital/collection/cwd/id/4993.
-5.Standiford, Les. Water to the Angels: William Mulholland, His Monumental Aqueduct, and the Rise of Los Angeles.Ecco, an Imprint of HarperCollinsPublishers, 2016. 
-6.Water and Power Associates. “Colorado River Aqueduct.” Water and Power Associates, WPA, 2021,waterandpower.org/museum/Colorado%20River%20Aqueduct.html.
-7.Water and Power Associates. “Construction of the Parker Dam(Night View).” Colorado River Aqueduct, 2021, waterandpower.org/museum/Colorado%20River%20Aqueduct.html.
-8.Water and Power Associates. “Eagle Mountain Pumping Plant.” Colorado River Aqueduct, 2021,waterandpower.org/museum/Colorado%20River%20Aqueduct.html.
+1. California Historical Society Collection. “View Down the Los Angeles River.” USC Digital Library, 2015, digitallibrary.usc.edu/cdm/singleitem/collection/p15799coll65/id/23433/rec/8. 
+ 
+2. Colorado River Aqueduct, American Society of Civil Engineers (ASCE), www.asce.org/project/colorado-river-aqueduct/. 
+
+3. Gumprecht, Blake. The Los Angeles River: Its Life, Death, and Possible Rebirth. Johns Hopkins University Press,2001. 
+
+4. S., & M. (n.d.). Colorado Aqueduct Progress [Map]. Ontario: Robert E. Ellingwood Model Colony History Room. Retrieved March 09, 2021, from https://ccdl.claremont.edu/digital/collection/cwd/id/4993.
+
+5. Standiford, Les. Water to the Angels: William Mulholland, His Monumental Aqueduct, and the Rise of Los Angeles.Ecco, an Imprint of HarperCollinsPublishers, 2016. 
+
+6. Water and Power Associates. “Colorado River Aqueduct.” Water and Power Associates, WPA, 2021,waterandpower.org/museum/Colorado%20River%20Aqueduct.html.
+
+7. Water and Power Associates. “Construction of the Parker Dam(Night View).” Colorado River Aqueduct, 2021, waterandpower.org/museum/Colorado%20River%20Aqueduct.html.
+
+8. Water and Power Associates. “Eagle Mountain Pumping Plant.” Colorado River Aqueduct, 2021,waterandpower.org/museum/Colorado%20River%20Aqueduct.html.
