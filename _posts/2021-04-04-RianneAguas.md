@@ -20,7 +20,7 @@ On March 17, 1925 – almost one hundred years ago – a personal invitation was
 The Mulholland Dam, named after Chief Engineer of the Bureau of Water Works and Supply William Mulholland, is a significant milestone in Los Angeles’ progression of its water systems and as a city itself. Located in the Hollywood Hills, the dam is the first successful concrete dam that Mulholland constructed and it stands as a prime example of its kind. The dam is a 200-foot high, 1,000-foot wide dam in Weid Canyon that yields a broad footpath and is a popular destination for joggers and bikers in the community. The construction of the dam itself holds financial significance as Mulholland was strategically able to build the structure with a budget of $6/yard for the dam, which is impressive since comparable structures in other cities ran for $12/yard. The dam additionally garnered attention as it became a figure in popular culture, being featured in many films and media in Los Angeles including the 1974 film Earthquake, the 1983 film Valley Girl, and the 1930 photograph Man on Steps, Bowl (The Thinker).
 
 
-![View of the Mulholland Dam during construction](images/ConstructionofMulhollandDam_RA.jpeg)
+![View of the Mulholland Dam during construction](images/ConstructionofMulhollandDam_RA.jpg)
    {:.image} 
 This is a view of the Mulholland Dam during its construction in February 1924. Image courtesy of Water and Power Associates.
    {:.caption} 
