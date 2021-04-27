@@ -1,19 +1,6 @@
 ---
 layout: post
 title: "The Colorado River"
-timelinedate: 1936
-categories: ["Aqueducts" "Colorado River Aqueduct"]
-author: "Toby Judge"
-lat: 33.837222
-lng: -117.378056
-headertitle: 
-
-desc: "Quick history and significance of the Colorado River Aqueduct"
----
-
----
-layout: post
-title: "The Colorado River"
 timelinedate: 2021-03-18
 categories: []
 author: "Toby Judge"
