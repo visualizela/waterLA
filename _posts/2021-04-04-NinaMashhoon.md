@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "From Farms to Urban Charms"
 timelinedate: 2021-04-04
@@ -43,7 +43,6 @@ Captured circa 1926, this residential area (near Cypress Park, Mt. Washington, a
 
 
 #### Works cited
-
 
 {:.bibliography}
 1. Carle, David. Water and the California Dream: Historic Choices for Shaping the Future. Counterpoint Press, 2016.
