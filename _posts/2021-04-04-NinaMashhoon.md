@@ -2,12 +2,12 @@
 layout: post
 title: "From Farms to Urban Charms"
 timelinedate: 2021-04-04
-categories: ["Land Use & Water"]
+categories: [""]
 author: "Nina Mashhoon"
 lat: 34.09119
 lng: -118.23397
 headertitle: 
-desc: "This area is present-day Elysian Valley. Neighboring areas include Elysian Park to the southwest, Cypress Park to the east and Mount Washington and Glassell Park to the north. The LA River runs to the right along the Elysian Valley.”
+desc: "This area is present-day Elysian Valley. Neighboring areas include Elysian Park to the southwest, Cypress Park to the east and Mount Washington and Glassell Park to the north. The LA River runs to the right along the Elysian Valley."
 ---
 
 ![Los Angeles River and agriculture](images/Elysian_Valley_Farms_NM.png)
