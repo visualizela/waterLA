@@ -37,4 +37,4 @@ This photo depicts a pumping station for the Colorado River Aqueduct. Image cour
 1. Carle, David, and David Carle. Water and the California Dream: Historic Choices for Shaping the Future. Counterpoint, 2016.
 2. “General Information and Policies.” Daily Trojan, https://dailytrojan.com/info/. Accessed 2 Apr. 2021.
 3. Hart, John. Storm over Mono: The Mono Lake Battle and the California Water Future. University of California Press, 1996.
-4. Modern Marvels | Colorado River Aqueduct | 10 That Changed America. 2018.
+4. Modern Marvels. Colorado River Aqueduct. 10 That Changed America. 2018.
