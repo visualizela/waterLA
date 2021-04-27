@@ -1,16 +1,5 @@
 ---
 layout: post
-title: "Colorado River Aqueduct Map"
-timelinedate: 1933-11-21
-categories: ["Aqueducts"]
-author: "Ethan Horowitz"
-lat:
-lng:33.6861
-headertitle: "This is a contour map of the construction of the Colorado River Aqueduct, one of the most remarkable water infrastructure projects in the history of the United States"
----
-
----
-layout: post
 title: "Coloraco Rive Aqueduct Map"
 timelinedate: 2021-03-18
 categories: []
