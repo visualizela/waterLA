@@ -50,7 +50,7 @@ This one incident ended the extraordinary career that Mulholland had created for
 
 #### Works cited
 
-{:.bibliography} <-- this tag is needed for bibliography formatting -->
+{:.bibliography} 
 1. “Case Study: St. Francis Dam (California, 1928).” ASDSO Lessons Learned, Association of State Dam Safety Officials, damfailures.org/case-study/st-francis-dam-california-1928/.
 2. City of Santa Clarita. The Story of the St. Francis Dam. YouTube, 13 Mar. 2018, www.youtube.com/watch?v=YWf6H3l4T4E.
 3. Sitton, Tom, and William Deverell. Water and Los Angeles: A Tale of Three Rivers, 1900-1941. University of California Press, 2016.
