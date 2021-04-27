@@ -40,7 +40,7 @@ Engineers Surveying the St. Francis Dam After the Disaster at the Site of the �
 
 #### Works cited
 
-{:.bibliography} <-- this tag is needed for bibliography formatting -->
+{:.bibliography}
 1. Amadeo, Kimberly. “The Economy in the 1920s and What Caused the Great Depression.” The Balance, 2021, www.thebalance.com/roaring-twenties-4060511. Accessed 1 Apr. 2021.
 2. Blitz, Matt. On Occasions like This, i Envy the Dead: The St. Francis Dam Disaster. 12 Mar. 2015,www.smithsonianmag.com/history/occasions-i-envy-dead-st-francis-dam-disaster 180954543/. Accessed 1 Apr. 2021.
 3.“Case Study: St. Francis Dam (California, 1928).” ASDSO Lessons Learned, damfailures.org/case-study/st-francis-dam-california-1928/. Accessed 1 Apr. 2021.
