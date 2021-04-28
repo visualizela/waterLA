@@ -17,7 +17,7 @@ markdown: kramdown
 encoding: utf-8
 
 # --STYLES--
-accent_color: rgba(69, 110, 176)  # accent color can be any css accepted value
+accent_color: rgba(46, 46, 229) # accent color can be any css accepted value
 accent_font: Della Respira  # Gogle Fonts import link is in head.html. You can specify the accent font here and it will add it to the main.css
 base_font: >
   "Lato", sans-serif
@@ -32,7 +32,7 @@ mapsettings:
   map-credits: 'Tiles Mapbox'
   minZoom: 0
   maxZoom: 20
-  setView: '[33.9852167, -118.2877316], 11'  # set map center point and zoom. See http://leafletjs.com/reference-1.2.0.html for more info.
+  setView: '[33.9852167, -118.2877316], 15'  # set map center point and zoom. See http://leafletjs.com/reference-1.2.0.html for more info.
   marker-grouping: single # sets the default clustering action. Options: grouped, single
   #directionapi: https://router.project-osrm.org/route/v1/walking/
   
