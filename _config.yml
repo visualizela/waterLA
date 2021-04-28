@@ -32,7 +32,7 @@ mapsettings:
   map-credits: 'Tiles Mapbox'
   minZoom: 0
   maxZoom: 20
-  setView: '[33.9852167, -118.2877316], 15'  # set map center point and zoom. See http://leafletjs.com/reference-1.2.0.html for more info.
+  setView: '[33.9852167, -118.2877316], 6'  # set map center point and zoom. See http://leafletjs.com/reference-1.2.0.html for more info.
   marker-grouping: single # sets the default clustering action. Options: grouped, single
   #directionapi: https://router.project-osrm.org/route/v1/walking/
   
