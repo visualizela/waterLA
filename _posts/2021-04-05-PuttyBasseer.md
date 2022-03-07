@@ -5,7 +5,7 @@ timelinedate: 1913-10-05
 categories: ["Los Angeles Aqueduct"]
 author: "Putty Basseer"
 lat: 34.312860
-lng: 118.492988
+lng: -118.492988
 headertitle: 
 
 desc: "This is an image of a section of the Los Angeles Aqueduct"
