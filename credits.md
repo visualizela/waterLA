@@ -4,17 +4,7 @@ title: Credits
 permalink: /credits/
 ---
 
-Fall 2020 Students:
 
-Roy Fann 
-Nick Tidow
-Connor Brown
-Allison Fischer
-Elsa VanDenberghe 
-Riley Carter
-Quincy Hirt
-Nishant Sinha
-Ben Baker
 
 #### More Info about site:
 Flâneur
