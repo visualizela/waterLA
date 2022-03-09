@@ -38,7 +38,7 @@ Image attribution / caption.
 This image was pulled from Google Street View.
    {:.caption} 
 
-![Mural](images/wetlandsparkmural.jpg)
+![Mural](images/%20wetlandsparkmural.jpg)
    {:.image} 
 Google Street View image.
    {:.caption} 
