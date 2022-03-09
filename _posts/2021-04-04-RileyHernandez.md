@@ -7,9 +7,9 @@ author: "Riley Hernandez"
 lat: 34.02243
 lng: -118.28525
 headertitle: 
-
 desc: "This is a 1931 article from the Daily Trojan about the Colorado River Aqueduct"
 ---
+
 The Daily Trojan is the Student Newspaper at the University of Southern California. The newspaper gives students information, education, and entertainment, and it has been doing so since 1912. This particular article in the Daily Trojan was from the edition that came out on August 14, 1931. This article, titled “Aqueduct is Insurance Policy,” discusses the Colorado River Aqueduct and its benefits. 
 
 ![Daily Trojan Article](images/article_RH.png)
