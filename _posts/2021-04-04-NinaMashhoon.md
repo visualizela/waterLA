@@ -2,7 +2,7 @@
 layout: post
 title: "From Farms to Urban Charms"
 timelinedate: 2021-04-04
-categories: [""]
+categories: ["Water"]
 author: "Nina Mashhoon"
 lat: 34.09119
 lng: -118.23397
