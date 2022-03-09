@@ -4,7 +4,7 @@ title: "Wetlands in Los Angeles"
 timelinedate: 2022-03-09
 categories: ["water"]
 author: "First Name, Last Name"
-lat: 33.99285511984426, 
+lat: 33.99285511984426 
 lng: -118.26728534478522
 headertitle: "this is the running title at the top. the default is to display the site title, so to activate the running title you will need to uncomment in the post.html layout"
 desc: "this is the map popup text"
