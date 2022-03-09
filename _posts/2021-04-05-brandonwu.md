@@ -2,14 +2,14 @@
 layout: post
 title: "The Story Behind the Los Angeles Aqueduct"
 timelinedate: 1908-1913
-categories: ["Aqueduct"]
+categories: ["Los Angeles Aqueduct"]
 author: "Brandon Wu"
 lat: 34.32328299546533 
 lng: -118.49758461498098
 headertitle: The Construction of the Los Angeles Aqueduct
-
 desc: "The Los Angeles Aqueduct"
 ---
+
 ![Aspinwall California Railway](images/Aspinwall_California_Railway_BW.png)
    {:.image}
 Nahl, H.W., “Aspinwall California Railway” [ca. 1852] , The Collections Of The Bancroft 	Library, UC Berkeley, Bancroft Library,
