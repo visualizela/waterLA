@@ -2,7 +2,7 @@
 layout: post
 title: "The Daily Trojan on the Colorado River Aqueduct"
 timelinedate: 1931-08-14
-categories: ["Colorado River Aqueduct"]
+categories: ["water"]
 author: "Riley Hernandez"
 lat: 34.02243
 lng: -118.28525
