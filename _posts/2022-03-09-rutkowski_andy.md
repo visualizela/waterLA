@@ -33,10 +33,6 @@ Image attribution / caption.
    
    
 
-![Mural at Wetlands park](images/%20wetlandsparkmural.png)
-   {:.image}
-This image was pulled from Google Street View.
-   {:.caption} 
 
 ![Mural](images/wetlandsparkmural.png)
    {:.image} 
@@ -45,14 +41,13 @@ Google Street View image.
 
 ![View of the wetlands](https://www.laparks.org/sites/default/files/facility/south-los-angeles-wetlands-park/images/south-la-wetlands-park.jpg)
    {:.image} 
-From [LA Parks Website](https://www.laparks.org/park/south-los-angeles-wetlands-park)
+Courtesy of [LA Parks Website](https://www.laparks.org/park/south-los-angeles-wetlands-park)
    {:.caption}
    
    
 
 
 #### Works cited
-
 
 {:.bibliography} <-- this tag is needed for bibliography formatting -->
 1. This could be something that you share.
