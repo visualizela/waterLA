@@ -43,6 +43,13 @@ This image was pulled from Google Street View.
 Google Street View image.
    {:.caption} 
 
+![View of the wetlands](https://www.laparks.org/sites/default/files/facility/south-los-angeles-wetlands-park/images/south-la-wetlands-park.jpg)
+   {:.image} 
+From [LA Parks Website](https://www.laparks.org/park/south-los-angeles-wetlands-park)
+   {:.caption}
+   
+   
+
 
 #### Works cited
 
