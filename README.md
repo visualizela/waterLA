@@ -1,3 +1,12 @@
+This project website . . .
+
+
+
+
+
+
+#Below Notes are about Flâneur, the framework used for creating this project site.
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2600530.svg)](https://doi.org/10.5281/zenodo.2600530)
 
 ## Flâneur
