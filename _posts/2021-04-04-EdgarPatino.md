@@ -2,7 +2,7 @@
 layout: post
 title: "Alabama Gates"
 timelinedate: 2021-04-05
-categories: ["Significant Events"]
+categories: ["water"]
 author: "Edgar Patino"
 lat: 36.675629
 lng: -118.100036
