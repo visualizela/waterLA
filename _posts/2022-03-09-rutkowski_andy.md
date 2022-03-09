@@ -33,12 +33,12 @@ Image attribution / caption.
    
    
 
-![Mural at Wetlands park](images/wetlandsparkmural.png)
+![Mural at Wetlands park](images/%20wetlandsparkmural.png)
    {:.image}
 This image was pulled from Google Street View.
    {:.caption} 
 
-![Mural](images/%20wetlandsparkmural.jpg)
+![Mural](images/wetlandsparkmural.png)
    {:.image} 
 Google Street View image.
    {:.caption} 
