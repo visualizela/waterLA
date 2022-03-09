@@ -11,18 +11,37 @@ desc: "this is the map popup text"
 ---
 
 
-Body text goes here in Markdown
+Text text text. Text text text.Text text text.
+Text text text.Text text text.Text text text.
+
+
+Text text text.Text text text.Text text text.
+
+
+
+Text text text.Text text text.
+
+Text text text.Text text text.
+
+Text text text.Text text text.
 
 
 ![Image title](images/filename.jpg -or- imageurl)
    {:.image} <-- this tag is needed for image formatting and for Lightbox feature -->
 Image attribution / caption.
    {:.caption} <-- this tag is needed for caption formatting and for Lightbox feature -->
+   
+   
+
+![Mural at Wetlands park](images/wetlandsparkmural.png)
+   {:.image}
+This image was pulled from Google Street View.
+   {:.caption} 
 
 
 #### Works cited
 
 
 {:.bibliography} <-- this tag is needed for bibliography formatting -->
-1. Entry 1
-2. Entry 2
+1. This could be something that you share.
+2. This could be something else you share.
