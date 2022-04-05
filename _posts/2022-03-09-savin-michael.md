@@ -2,7 +2,7 @@
 layout: post
 title: "Disaster Looms Over The Chief"
 timelinedate: 1926
-categories: "Disaster"
+categories: "Disasters"
 author: "Michael Savin" 
 lat: 34.54729081398645
 lng: -118.51194900931432
