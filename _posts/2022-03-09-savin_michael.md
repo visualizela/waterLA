@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Disaster Looms Over The Chief"
 timelinedate: c.1926-28
