@@ -1,14 +1,16 @@
----
+﻿---
 layout: post
 title: "Disaster Looms Over The Chief"
-timelinedate: 1926
-categories: "Disasters"
-author: "Michael Savin" 
+timelinedate: 1926-01-01
+categories: ["Disasters"] 
+author: "Michael Savin"
 lat: 34.54729081398645
 lng: -118.51194900931432
-headertitle: 
-desc: "Disaster Looms Over the Chief"
+headertitle: "this is the running title at the top. the default is to display the site title, so to activate the running title you will need to uncomment in the post.html layout"
+desc: "Disaster Looms Over The Chief"
 ---
+Body text goes here in Markdown
+
 
 The seemingly innocuous image above belies the rather sinister nature of the coming events that certain clues point to. The man with the outstretched finger is William Mulholland, a self-taught engineer who would transform the course of LA’s history in the early 1900s through a series of unprecedented and dramatic works. The feather in his cap was the construction of the gargantuan LA Aqueduct. Opened in November of 1913, the complex web of waterways spanned over 230 miles – Mulholland tapped water in the distant Owens Valley and brought it all the way to LA solely under the power of gravity. Completing such an undertaking within the realms of a fairly restrictive budget seemed to have secured his legendary status in the city’s lore. The presence of over 40,000 uproarious residents at the unveiling was an unmistakable endorsement of Mulholland’s work; knowledge of the shady dealings permeating the entire project was minimal at the time, but even that would not have spoiled the admiration most held for the man that had delivered the city water. It opened the door for exponential growth in population and economy – everyone would be better off, and they were all delighted. Yet, it was the almost unfathomable success rate that he enjoyed that would ultimately come to undermine his legacy.
 
@@ -20,6 +22,8 @@ In the late hours of March 12th 1928, less than 2 years after water first filled
 
 
 Therein lies the sinisterness of the image. The high level of water in the reservoir implies that it is dated nearer to the collapse than the completion. The man perhaps most crucially responsible for crafting LA into what it is today converses casually as the impending arrival of untold destruction looms ominously behind him. It also helps contextualise the turning point in regulation that followed the catastrophe. The geological unsuitability of the terrain was deemed a significant factor, but the established practice of having one person in charge of decision making in every phase of construction was closely scrutinised. The rate of such projects was greatly slowed, and more checks and balances were put in place – the entire nature in which water control efforts were made in LA was entirely reshaped moving forward. By paying attention to just a couple subtle clues in the leading image, one can glean almost the entire story and implications of the most significant period in the development of water and life in LA.
+
+
 
 
 ![Image title](images/filename.jpg -or- imageurl)
