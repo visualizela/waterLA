@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "The Flip Side of the Los Angeles Aqueduct"
 timelinedate: 2022-04-01
