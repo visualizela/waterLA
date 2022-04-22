@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "The Story of Owens River"
 timelinedate: 1907
