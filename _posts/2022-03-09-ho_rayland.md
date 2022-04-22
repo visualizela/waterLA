@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Los Angeles-Owens Valley Water Controversy. Resolution of Inyo County Federation of Women's Clubs"
+title: "Los Angeles-Owens Valley Water Controversy: Resolution of Inyo County Federation of Women's Clubs"
 timelinedate: 1923-09-01
 categories: ["Aqueducts"]
 author: "Rayland, Ho"
