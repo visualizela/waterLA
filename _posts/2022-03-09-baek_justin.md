@@ -2,7 +2,7 @@
 layout: post
 title: "Praise Mulholland"
 timelinedate: 1913-11-05
-categories: ["Mulholland"]
+categories: 
 author: "Justin, Baek"
 lat: 34.182578
 lng: -118.439676
