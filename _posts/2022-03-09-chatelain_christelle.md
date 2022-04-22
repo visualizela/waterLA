@@ -9,6 +9,7 @@ lng: -117.96049879439961
 headertitle: "this is the running title at the top. the default is to display the site title, so to activate the running title you will need to uncomment in the post.html layout"
 desc: "this is the map popup text"
 ---
+
 “The immense water resources of Owens Valley commanded my attention at once.” These words, uttered by Fred Eaton in 1892 after his visit to Owens Lake, are what inspired William Mulholland to relentlessly take on the challenge of building the 226 mile Los Angeles Aqueduct through rugged and desolate land in the early 20th century. 
 
 
@@ -26,10 +27,10 @@ Additionally, many tunnels had to be constructed in order for water of the aqued
 The Los Angeles aqueduct finally opened in 1913, after over 6 years of construction as one of the most brilliant and effective engineering accomplishments of its time. 
 
 
-![Image title](images/filename.jpg -or- imageurl)
-   {:.image} <-- this tag is needed for image formatting and for Lightbox feature -->
-Image attribution / caption.  
-   {:.caption} <-- this tag is needed for caption formatting and for Lightbox feature -->
+![Profile of LA Aqueduct](images/GP_laaqueduct.png)
+   {:.image} 
+Hand-drawn profile of the Los Angeles Aqueduct created by the Los Angeles Water Department during construction, demonstrating the aqueduct's downstream trajectory and some of the extreme landforms it traversed. Tunnels were built throughout the mountainous parts of its course and its downstream path allowed electricity generation with gravity, making it one of the greatest engineering feats at the time. Courtesy of Los Angeles Board of Public Service Commissioners, published 1916.
+   {:.caption} 
 
 
 #### Works cited
