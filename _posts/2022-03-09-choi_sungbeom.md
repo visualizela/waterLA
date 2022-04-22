@@ -9,6 +9,7 @@ lng:  -118.10015447350217
 headertitle: "this is the running title at the top. the default is to display the site title, so to activate the running title you will need to uncomment in the post.html layout"
 desc: "What impacts did the LA Aqueduct bring to the Owens Valley?"
 ---
+
 In the late 1800s, the population in Los Angeles had drastically augmented during the final decade of the 1800s, and massive farmlands began to be swallowed up by residential and commercial developments. Consequently, the demand for water for domestic and industrial purposes rapidly increased. 
 
 
