@@ -2,7 +2,7 @@
 layout: post
 title: "The Flip Side of the Los Angeles Aqueduct"
 timelinedate: 2022-04-01
-categories: [“Owens Valley”]
+categories:["Owens Valley"]
 author: "Sungbeom Choi"
 lat: 36.676395194258845
 lng:  -118.10015447350217
