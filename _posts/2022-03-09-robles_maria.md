@@ -8,7 +8,7 @@ Lat: 34.2899
 Lng: -114.1721
 headertitle: "this is the running title at the top. the default is to display the site title, so to activate the running title you will need to uncomment in the post.html layout"
 desc: "Colorado River Aqueduct"
-—
+—--
 The Colorado River -  why is a river from another state such an important element to the growth of Los Angeles?
 
 
