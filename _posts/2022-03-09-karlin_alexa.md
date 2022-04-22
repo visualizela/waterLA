@@ -5,7 +5,7 @@ timelinedate: 2013-09-01
 categories: ["water"]
 author: "author"
 lat: 34.0537
-lng: 118.2427
+lng: -118.2427
 headertitle: "this is the running title at the top. the default is to display the site title, so to activate the running title you will need to uncomment in the post.html layout"
 desc: "L.A. City Hall in Front of Hoover Dam"
 ---
