@@ -2,13 +2,14 @@
 layout: post
 title: "The Flip Side of the Los Angeles Aqueduct"
 timelinedate: 2022-04-01
-categories:["Owens Valley"]
+categories: ["Owens Valley"]
 author: "Sungbeom Choi"
 lat: 36.676395194258845
-lng:  -118.10015447350217
+lng: -118.10015447350217
 headertitle: 
 desc: "What impacts did the LA Aqueduct bring to the Owens Valley?"
 ---
+
 
 In the late 1800s, the population in Los Angeles had drastically augmented during the final decade of the 1800s, and massive farmlands began to be swallowed up by residential and commercial developments. Consequently, the demand for water for domestic and industrial purposes rapidly increased. 
 
