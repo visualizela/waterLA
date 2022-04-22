@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Praise Mulholland"
 timelinedate: 1913-11-05
