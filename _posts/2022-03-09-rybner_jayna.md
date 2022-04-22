@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Unknown deaths in St. Francis Disaster found in relief camp"
 timelinedate: 2013-09-01
