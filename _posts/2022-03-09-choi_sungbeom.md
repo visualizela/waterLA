@@ -6,7 +6,7 @@ categories:["Owens Valley"]
 author: "Sungbeom Choi"
 lat: 36.676395194258845
 lng:  -118.10015447350217
-headertitle: "this is the running title at the top. the default is to display the site title, so to activate the running title you will need to uncomment in the post.html layout"
+headertitle: 
 desc: "What impacts did the LA Aqueduct bring to the Owens Valley?"
 ---
 
