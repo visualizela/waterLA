@@ -2,7 +2,7 @@
 layout: post
 title: "Unknown deaths in St. Francis Disaster found in relief camp"
 timelinedate: 2013-09-01
-categories: [water"]
+categories: ["water"]
 author: "author"
 lat: 34.547364
 lng: -118.512300
@@ -35,8 +35,6 @@ Image attribution / caption.
 
 
 #### Works cited
-
-
 {:.bibliography} <-- this tag is needed for bibliography formatting -->
 1. Entry 1
 2. Entry 2
