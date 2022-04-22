@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "The LA Aqueduct: An Impressive Engineering Feat by William Mulholland"
 timelinedate: 1916
