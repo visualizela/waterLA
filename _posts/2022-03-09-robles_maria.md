@@ -2,7 +2,7 @@
 layout: post
 title: "Colorado River Aqueduct"
 timelinedate: 2022-04-01
-categories: ["Aqueduct"]
+categories: ["Aqueducts"]
 author: "Maria Robles"
 lat: 34.2899
 lng: -114.1721
