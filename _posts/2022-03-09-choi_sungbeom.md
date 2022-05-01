@@ -55,8 +55,8 @@ California.” 1924. Calisphere, Loyola Marymount University, Department of Arch
 California.” 1924. Calisphere, Loyola Marymount University, Department of Archives and Special Collections, William H. Hannon Library, 26 April 2019.](https://calisphere.org/item/126cab359314ec0af2abef4515b722e3/)
 3. [“Great Siphon Ripped by Explosion, L.A. Aqueduct.” 1928. Calisphere, Los Angeles Public  
 Library, 26 March 2022.](https://calisphere.org/item/a671c132ece78bea1c86118698fd533a/)
-4. [Gumprecht, Blake. The Los Angeles River: Its Life, Death, and Possible Rebirth. Johns Hopkins University Press, 2001.]
+4. Gumprecht, Blake. The Los Angeles River: Its Life, Death, and Possible Rebirth. Johns Hopkins University Press, 2001.
 5. [Krist, Gary. “The Water War That Polarized 1920s California.” Literary Hub, 4 Apr. 2019.](https://lithub.com/the-water-war-that-polarized-1920s-california/)
-6. [Reisner, Marc, and Lawrie Mott. Cadillac Desert: The American West and Its Disappearing Water. Penguin Books, 2017.] 
-7. [Standiford, Les. Water to the Angels: William Mulholland, His Monumental Aqueduct, and the Rise of Los Angeles. Ecco, an Imprint of HarperCollinsPublishers, 2016.] 
+6. Reisner, Marc, and Lawrie Mott. Cadillac Desert: The American West and Its Disappearing Water. Penguin Books, 2017. 
+7. Standiford, Les. Water to the Angels: William Mulholland, His Monumental Aqueduct, and the Rise of Los Angeles. Ecco, an Imprint of HarperCollinsPublishers, 2016.
 
