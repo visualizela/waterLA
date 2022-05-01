@@ -2,7 +2,7 @@
 layout: post
 title: "Pro Colorado River Aqueduct Vote Pamphlet"
 timelinedate: 1931-09-29
-categories: ["LA Aqueduct"]
+categories: ["Aqueducts"]
 author: "Sean McCormick"
 lat: 34.0530221
 lng: -118.2378843
