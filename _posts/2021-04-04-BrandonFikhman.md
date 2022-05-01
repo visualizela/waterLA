@@ -2,7 +2,7 @@
 layout: post
 title: "The Tragic Accident of the Saint Francis Dam"
 timelinedate: 1928-03-12
-categories: ["Dam Breach"]
+categories: ["Dams"]
 author: "Brandon Fikhman"
 lat: 34.5473907
 lng: -118.5144994
