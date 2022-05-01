@@ -2,7 +2,7 @@
 layout: post
 title: "Joseph Lippincott's Letter"
 timelinedate: 1905-06-01
-categories: ["Los Angeles Aqueduct"]
+categories: ["Aqueducts"]
 author: "Claire Chen" 
 lat: 34.38776889497346
 lng: -118.4985834756452
