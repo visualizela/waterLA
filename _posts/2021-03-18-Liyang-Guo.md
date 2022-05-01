@@ -2,7 +2,7 @@
 layout: post
 title: "Campaign for the Construction of the Colorado River Aqueduct"
 timelinedate: 
-categories: 
+categories: ["Aqueducts"]
 author: "Liyang Guo"
 lat: 34.0224
 lng: -118.2851
