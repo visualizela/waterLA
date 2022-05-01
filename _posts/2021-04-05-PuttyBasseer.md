@@ -2,7 +2,7 @@
 layout: post
 title: "The Los Angeles Aqueduct"
 timelinedate: 1913-10-05
-categories: ["Los Angeles Aqueduct"]
+categories: ["Aqueducts"]
 author: "Putty Basseer"
 lat: 34.312860
 lng: -118.492988
