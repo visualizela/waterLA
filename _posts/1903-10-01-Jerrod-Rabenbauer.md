@@ -2,7 +2,7 @@
 layout: post
 title: "Los Angeles Aqueduct Map"
 timelinedate: 1903-10-01
-categories: ["Los Angeles Aqueduct"]
+categories: ["Aqueducts"]
 author: "Jerrod Rabenbauer" 
 lat: 34.0390924
 lng: -118.2354541
