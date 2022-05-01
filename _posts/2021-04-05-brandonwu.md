@@ -2,7 +2,7 @@
 layout: post
 title: "The Story Behind the Los Angeles Aqueduct"
 timelinedate: 1908-1913
-categories: ["Los Angeles Aqueduct"]
+categories: ["Aqueducts"]
 author: "Brandon Wu"
 lat: 34.32328299546533 
 lng: -118.49758461498098
