@@ -5,7 +5,7 @@ timelinedate: 2022-04-01
 categories: ["Floods"]
 author: "Tristan Ma"
 lat: 34.2286
-lng: 118.2351
+lng: -118.2351
 headertitle: "this is the running title at the top. the default is to display the site title, so to activate the running title you will need to uncomment in the post.html layout"
 desc: "A look at the 1934 New Year's Day Flood"
 ---
