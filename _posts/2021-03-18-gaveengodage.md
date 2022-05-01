@@ -2,7 +2,7 @@
 layout: post
 title: "Title"
 timelinedate: 2021-03-18
-categories: ["water"]
+categories: ["Water"]
 author: "Gaveen Godage"
 lat: 34.0826416
 lng: -118.2541918
