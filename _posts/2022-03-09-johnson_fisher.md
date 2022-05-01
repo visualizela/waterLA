@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "The Story of Owens River"
-timelinedate: 1907
-categories: ["Los Angeles Aqueduct”]
+timelinedate: 
+categories: ["Aqueducts"]
 author: "Fisher Johnson"
 lat: 36.386097
 lng: -117.967393
-headertitle: "this is the running title at the top. the default is to display the site title, so to activate the running title you will need to uncomment in the post.html layout"
+headertitle: 
 desc: "The Story of Owens River"
 ---
 
