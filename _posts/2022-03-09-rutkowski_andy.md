@@ -2,7 +2,7 @@
 layout: post
 title: "Wetlands in Los Angeles"
 timelinedate: 2022-03-09
-categories: ["Water"]
+categories:["Water"]
 author: "First Name, Last Name"
 lat: 33.99285511984426 
 lng: -118.26728534478522
