@@ -2,7 +2,7 @@
 layout: post
 title: "Coloraco River Aqueduct Map"
 timelinedate: 2021-03-18
-categories: []
+categories: ["Aqueducts"]
 author: "Ethan Horowitz"
 lat: 33.6861
 lng: -115.9344
