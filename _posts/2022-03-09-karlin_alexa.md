@@ -2,14 +2,13 @@
 layout: post
 title: "L.A. City Hall in Front of Hoover Dam"
 timelinedate: 2013-09-01
-categories: ["water"]
+categories: ["Water"]
 author: "Alexa Karlin"
 lat: 34.0537
 lng: -118.2427
 headertitle: "this is the running title at the top. the default is to display the site title, so to activate the running title you will need to uncomment in the post.html layout"
 desc: "L.A. City Hall in Front of Hoover Dam"
 ---
-
 
 This image depicts Los Angeles City Hall in front of the Hoover Dam. It was created in the 1930s and demonstrates the importance of water in LA and across Southern California during the time. Since the Europeans arrived in Southern California hundreds of years ago, water has dictated where people settled, government, and politics. The European settlers created their original pueblos neighboring the Los Angeles River in order to use its water. As the population of LA exponentially increased, a greater demand was placed on the river and it was not able to supply. City leaders began looking elsewhere to import water to sustain the city’s growth. By the late 19th century, LA was in a desperate sprawl for water (Gumprecht). 
 
@@ -19,20 +18,24 @@ LA leaders began looking elsewhere to provide water for its citizens. The constr
 
 Water is a vital aspect of creating the Southern California feel. From fountains to lush greenery, LA has been portrayed as a tropical paradise. Water was and remains a driving factor in population growth across Southern California. The picture represents the importance that water plays for the city as a whole.
 
+![LAAqueduct](CityHallLaAqueduct_AK.jpg)
+   {:.image} 
+Courtesy of NPR.
+   {:.caption} 
 
-![Image title](images/filename.jpg -or- imageurl)
-   {:.image} <-- this tag is needed for image formatting and for Lightbox feature -->
-Image attribution / caption.
-   {:.caption} <-- this tag is needed for caption formatting and for Lightbox feature -->
-
+![CaliforniaCallsYou](CityHallAdvertising_AK.jpg)
+   {:.image} 
+Courtesy of NPR.
+   {:.caption} 
 
 #### Works cited
 
-
-{:.bibliography} <-- this tag is needed for bibliography formatting -->
-1. CSUN Covid-19 Community Archive. https://library.csun.edu/sites/default/files/users/main/documents/covidclassassignment.pdf.
-2. “Total Seasonal Rainfall (Precipitation) vs. Overall Seasonal Average.” Total Seasonal Rainfall 1877-Present for Downtown Los Angeles, California, https://www.laalmanac.com/weather/we13.php. 
-3. “Water and Power Associates Informing the Public about Critical Water and Energy Issues Facing Los Angeles and California.” Water and Power Associates, https://waterandpower.org/museum/Construction_of_the_LA_Aqueduct.html. 
-4. “Hoover Dam.” Encyclopædia Britannica, Encyclopædia Britannica, Inc., https://www.britannica.com/topic/Hoover-Dam. 
+{:.bibliography} 
+1. CSUN Covid-19 Community Archive. https://library.csun.edu/sites/default/files/users/main/documents/covidclassassignment.pdf. 
+2. “Total Seasonal Rainfall (Precipitation) vs. Overall Seasonal Average.” Total Seasonal Rainfall 1877-Present for Downtown Los Angeles, California, https://www.laalmanac.com/weather/we13.php.  
+3. “Water and Power Associates Informing the Public about Critical Water and Energy Issues Facing Los Angeles and California.” Water and Power Associates, https://waterandpower.org/museum/Construction_of_the_LA_Aqueduct.html.  
+4. “Hoover Dam.” Encyclopædia Britannica, Encyclopædia Britannica, Inc., https://www.britannica.com/topic/Hoover-Dam.  
 5. “L.A. City Hall in Front of Hoover Dam.” L.A. City Hall in Front of Hoover Dam : Los Angeles Public Library Photo Collection, 1930, https://tessa.lapl.org/cdm/ref/collection/photos/id/89905.
-6. Staff, NPR. “How an Aqueduct Turned Los Angeles into a 'Garden of Eden'.” NPR, NPR, 3 Nov. 2013, https://www.npr.org/2013/11/03/242819699/how-an-aqueduct-turned-los-angeles-into-a-garden-of-eden. Gumprecht, Blake. The Los Angeles River: Its Life, Death, and Possible Rebirth. Johns Hopkins University Press, 1999.
+6. Staff, NPR. “How an Aqueduct Turned Los Angeles into a 'Garden of Eden'.” NPR, NPR, 3 Nov. 2013, https://www.npr.org/2013/11/03/242819699/how-an-aqueduct-turned-los-angeles-into-a-garden-of-eden.
+7. Gumprecht, Blake. The Los Angeles River: Its Life, Death, and Possible Rebirth. Johns Hopkins University Press, 1999.
+
