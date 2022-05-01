@@ -2,7 +2,7 @@
 layout: post
 title: "Road Map of the Colorado River Aqueduct"
 timelinedate: 2021-04-01
-categories: []
+categories: ["Aqueducts"]
 author: "Atilla Uslu"
 lat: 33.68596406406717
 lng: -115.93475168478827
