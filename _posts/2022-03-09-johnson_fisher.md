@@ -26,7 +26,7 @@ Highlighted in this photograph is a person testing water level in Owens Valley. 
 
 #### Works cited
 
-{:.bibliography} <-- this tag is needed for bibliography formatting -->
+{:.bibliography} 
 1. “Alabama Gates Historical Marker.” Historical Marker, 11 Dec. 2021, 
 https://www.hmdb.org/m.asp?m=93252. 
 2. Allen, Kelly. “The Story of Owens River”. West Coast Magazines, 1907.
