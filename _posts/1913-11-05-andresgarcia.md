@@ -2,7 +2,7 @@
 layout: post
 title: "The Opening of the Los Angeles Aqueduct"
 timelinedate: 1913-11-05
-categories: ["water"]
+categories: ["Water"]
 author: "Andres Garcia Gomez"
 lat: 34.312860
 lng: -118.492988
