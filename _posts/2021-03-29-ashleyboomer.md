@@ -2,7 +2,7 @@
 layout: post
 title: "The St. Francis Dam Disaster"
 timelinedate: 2021-03-29
-categories: 
+categories: ["Dams"]
 author: "Ashley Boomer"
 lat: 34.548309420187984
 lng: -118.51218199497274
