@@ -2,7 +2,7 @@
 layout: post
 title: "Destructive Flooding In LA"
 timelinedate: 1941-05-04
-categories: ["Flooding"]
+categories: ["Floods"]
 author: "Soni Kanaya"
 lat: 34.110857
 lng: -118.1875405
