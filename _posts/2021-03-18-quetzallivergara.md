@@ -2,7 +2,7 @@
 layout: post
 title: "The Los Angeles River: A Concrete Water Freeway"
 timelinedate: 1952-01-13
-categories: 
+categories: ["Los Angeles River"]
 author: "Quetzalli Vergara"
 lat: 34.0385
 lng: -118.2281
