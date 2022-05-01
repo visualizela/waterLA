@@ -2,7 +2,7 @@
 layout: post
 title: "Engineering of the Los Angeles Aqueduct"
 timelinedate: 2021-04-06
-categories: ["Los Angeles Aqueduct"]
+categories: ["Aqueducts"]
 author: "Michael Ruiz"
 lat: 36.812282
 lng: -118.172512
