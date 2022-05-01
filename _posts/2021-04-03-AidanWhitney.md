@@ -2,7 +2,7 @@
 layout: post
 title: "The Concrete Iceberg"
 timelinedate: 1928-03-12
-categories: ["Disasters"]
+categories: ["Dams"]
 author: "Aidan Whitney"
 lat: 34.544354
 lng: -118.518906
