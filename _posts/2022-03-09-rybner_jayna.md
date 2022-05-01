@@ -39,14 +39,13 @@ In the photograph Children Gathered in Front of Tents after the Failure of the S
 #### Works cited
 
 {:.bibliography} 
-1. [Jackson, Donald C., and Norris Hundley, Jr. "William Mulholland and the St. Francis Dam disaster." California History, vol. 82, no. 3, fall 2004, pp. 8+. Gale In Context: U.S. History,] (link.gale.com/apps/doc/A129248080/GPS?u=usocal_main&sid=bookmark-GPS&xid=5b3a98f7)
+1. [Jackson, Donald C., and Norris Hundley, Jr. "William Mulholland and the St. Francis Dam disaster." California History, vol. 82, no. 3, fall 2004, pp. 8+. Gale In Context: U.S. History,](link.gale.com/apps/doc/A129248080/GPS?u=usocal_main&sid=bookmark-GPS&xid=5b3a98f7)
 Accessed 30 Mar. 2022.
-2. [Meares, Hadley. “The Flood: St. Francis Dam Disaster, William Mulholland, and the Casualties of L.A. Imperialism.” KCET, 26 July 2013,] (https://www.kcet.org/history-society/the-flood-st-francis-dam-disaster-william-mulholland-and-the-casualties-of-l-a-imperialism). Accessed 30 Mar. 2022
+2. [Meares, Hadley. “The Flood: St. Francis Dam Disaster, William Mulholland, and the Casualties of L.A. Imperialism.” KCET, 26 July 2013,](https://www.kcet.org/history-society/the-flood-st-francis-dam-disaster-william-mulholland-and-the-casualties-of-l-a-imperialism). Accessed 30 Mar. 2022
 3. Standiford, Les. Water to the Angels: William Mulholland, His Monumental Aqueduct, and the Rise of Los Angeles. Ecco, an Imprint of HarperCollinsPublishers, 2016.
 4. [Wilkman, Jon. “Floodpath: The Forgotten History of the 1928 St. Francis Dam Disaster.” Southern California Quarterly, vol. 99, no. 1, [University of California Press, Historical Society of Southern California], 2017, pp. 71–88]( https://www.jstor.org/stable/26413416)
 
-5. [“Children Gathered in Front of Tents after the Failure of the Saint Francis Dam and Resulting Flood, Santa Clara River Valley (Calif.).” Calisphere, Mar. 1928,] (https://calisphere.org/item/ark:/21198/zz002dcrfb/) . Accessed 2022.
+5. [“Children Gathered in Front of Tents after the Failure of the Saint Francis Dam and Resulting Flood, Santa Clara River Valley (Calif.).” Calisphere, Mar. 1928,](https://calisphere.org/item/ark:/21198/zz002dcrfb/) . Accessed 2022.
  
-6. [Lee, Charles H. “St. Francis Dam Ruins” Calisphere, UC Riverside, Library, Water Resources Collections and Archives, 1928,]
-(https://calisphere.org/item/ark:/28722/bk000470t1t/) Accessed 2022.
+6. [Lee, Charles H. “St. Francis Dam Ruins” Calisphere, UC Riverside, Library, Water Resources Collections and Archives, 1928,](https://calisphere.org/item/ark:/28722/bk000470t1t/) Accessed 2022.
 7. [“Emergency morgue with bodies of victims of the flood that followed the failure of the Saint Francis Dam, Newhall (Calif.), 1928,”  Calisphere, UCLA, Library Special Collections, Charles E. Young Research Library March 1928,]( https://calisphere.org/item/ark:/21198/zz002dcsft/ )Accessed 2022.
