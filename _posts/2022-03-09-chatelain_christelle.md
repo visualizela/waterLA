@@ -42,7 +42,8 @@ An inner view of Power Plant One of the Los Angeles Aqueduct, showing the turbin
 ![The Elizabeth Tunnel](images/christellepic3.png)
    {:.image} 
 Workers standing at the entrance of the Elizabeth tunnel, the longest yet most useful tunnel in the aqueduct, located in the Elizabeth division, only a few miles away from its destination in Los Angeles.  
-https://scvhistory.com/scvhistory/lw2419.htm#:~:text=The%20Elizabeth%20Tunnel%20is%20the,Gray%2C%20a%20hardrock%20tunnel%20expert.
+
+[SCVHistory website](https://scvhistory.com/scvhistory/lw2419.htm#:~:text=The%20Elizabeth%20Tunnel%20is%20the,Gray%2C%20a%20hardrock%20tunnel%20expert).
    {:.caption} 
 
 
