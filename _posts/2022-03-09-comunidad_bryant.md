@@ -31,7 +31,7 @@ As a result, on March 12, 1928, the “St. Francis Dam had failed—12 billion g
 
 #### Works cited
 
-{:.bibliography} <-- this tag is needed for bibliography formatting -->
+{:.bibliography} 
 1. Clarita, Santa. “The Story of the St. Francis Dam.” YouTube, YouTube, 13 Mar. 2018, https://www.youtube.com/watch?v=YWf6H3l4T4E. 
 2. Deverell, William, and Tom Sitton. Water and Los Angeles: A Tale of Three Rivers, 1900-1941. University of California Press, 2017. 
 3. Lee, Charles H. (Charles Hamilton), 1883-1967. St. Francis Dam Ruins. https://jstor.org/stable/community.29665487.
