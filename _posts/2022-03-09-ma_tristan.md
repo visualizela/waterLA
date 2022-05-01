@@ -7,7 +7,7 @@ author: "Tristan Ma"
 lat: 34.2286
 lng: 118.2351
 headertitle: "this is the running title at the top. the default is to display the site title, so to activate the running title you will need to uncomment in the post.html layout"
-desc: "this is the map popup text"
+desc: "A look at the 1934 New Year's Day Flood"
 ---
 ![Landscape after 1934 Flood](images/floodlandscape_TM.jpg)
    {:.image} 
