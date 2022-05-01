@@ -2,7 +2,7 @@
 layout: post
 title: "Then and Now: The St. Francis Dam"
 timelinedate: 1928-03-12
-categories: ["water"]
+categories: ["Water"]
 author: "Sophie Lin"
 lat: 34.535493872369365
 lng: -118.52522363997491
