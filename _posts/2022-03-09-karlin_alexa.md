@@ -18,12 +18,12 @@ LA leaders began looking elsewhere to provide water for its citizens. The constr
 
 Water is a vital aspect of creating the Southern California feel. From fountains to lush greenery, LA has been portrayed as a tropical paradise. Water was and remains a driving factor in population growth across Southern California. The picture represents the importance that water plays for the city as a whole.
 
-![LAAqueduct](CityHallLaAqueduct_AK.jpg)
+![LAAqueduct](images/CityHallLaAqueduct_AK.jpg)
    {:.image} 
 Courtesy of NPR.
    {:.caption} 
 
-![CaliforniaCallsYou](CityHallAdvertising_AK.jpg)
+![CaliforniaCallsYou](images/CityHallAdvertising_AK.jpg)
    {:.image} 
 Courtesy of NPR.
    {:.caption} 
