@@ -4,8 +4,8 @@ title: "Colorado River Aqueduct Pumps and their Impact on Southern California"
 timelinedate: 2013-09-01
 categories: ["Aqueducts"]
 author: "Joy Bergstrom"
-lat: 40.7707909
-lng: -111.8623461
+lat: 33.9972825
+lng: -115.0081865
 headertitle:
 desc: "Colorado River Aqueduct Pumps"
 ---
