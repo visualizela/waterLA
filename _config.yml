@@ -30,7 +30,7 @@ map-tileset: 'https://api.mapbox.com/styles/v1/andy-rutkowski/cl2oal4n5002e14nq9
 map-credits: '<a target="_blank" href="https://visualizela.github.io/waterLA/">Water in Los Angeles</a> | Tiles: Mapbox'
 minZoom: 0 
 maxZoom: 14
-setView: '[35.2571824, -116.6995972], 6.5'  # set map center point and zoom. See http://leafletjs.com/reference-1.2.0.html for more info.
+setView: '[35.1384413, -119.0150179], 4.5'  # set map center point and zoom. See http://leafletjs.com/reference-1.2.0.html for more info.
 marker-grouping: grouped # sets the default clustering action. Options: grouped, single
 
 # Truncates map marker popup on small screens to only display post title
