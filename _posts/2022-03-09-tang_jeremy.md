@@ -16,12 +16,14 @@ Owens River water enters the aqueduct, 1913. Courtesy of the Los Angeles Public 
   {:.caption}
 
 In 1913, the LA Aqueduct was constructed and sent water from Owens Valley to Los Angeles. Over the next few years, the population of the communities in Owens Valley dropped drastically. Many businesses and schools shut down all due to losing the rights to their own water. At the same time, the population in the city of LA shot up from slightly above 300k to well over a million in 1930. The LA Aqueduct was vital to this growth as it provided the water they needed to support this many people. However, after a series of droughts, LA needed even more water, so they started pumping from Owens Valley’s groundwater supply. In 1924, after a series of bombings of the aqueduct, many citizens, some of them armed, of Owens Valley led by the Watterson brothers took control of the Alabama Gates. They destroyed parts of the aqueduct and released water. 
+
 ![Alabama Gates](images/AlabamaGates.png)
    {:.image} 
 Owens Valley Residents occupying the Alabama Gates. 
   {:.caption}
 
 Owens Valley had been on a decline since then, “[i]rrigated acreage in the valley dropped from about 75,000 acres in 1920 to 23,625 acres in 1940” (Watereducation.org) and at this point, only hoped to get some money out of reparations from LA. The conflict only ended “when Los Angeles banker J. A. Graves proposed the formation of a mediation panel consisting of three state judges to resolve the claims of Owens Valley property owners and business-owners.” (Standiford 242) 
+
 ![Big Pine Editorial](images/BigPineEditorial.png)
    {:.image} 
 Big Pine Citizen Editorial
@@ -31,7 +33,6 @@ A year later, in 1925, the California Senate passed a bill that approved the rep
 The LA Aqueduct is an essential part of LA’s water history. After all, it is how LA managed to support a huge population that was growing exponentially. In fact, a huge portion of the land that is considered LA today, joined immediately after the completion of the aqueduct. However, in the process, LA completely stripped Owens Valley where their communities, agriculture, and businesses quickly fell apart. Although their resistance had some success in the early years, it quickly died down after their leaders were found guilty of embezzlement. And even to this day, they continue to suffer, but their voices too faint to be heard. 
 
 
- 
 #### Works cited
 
 {:.bibliography} 
