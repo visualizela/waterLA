@@ -23,7 +23,7 @@ Cauhape in her letter to the editor argues that William Mulholland was not a vis
   Image courtesy of LAPL
    {:.caption} 
    
-![Water pipe construction](images/mamlouk2_LAPL.png)
+![Water pipe construction](images/mamlouk2_LAPL2.png)
    {:.image} 
   
   Image courtesy of LAPL
