@@ -26,10 +26,10 @@ github_username:
 
 
 # --MAP SETTINGS--
-map-tileset: 'https://api.mapbox.com/styles/v1/andy-rutkowski/cjnrogzxt22u82so658okk4h1/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiYW5keS1ydXRrb3dza2kiLCJhIjoiWDJRMFVUWSJ9.iHl6Cf0M79wmHQlfP6Bk8Q'
+map-tileset: 'https://api.mapbox.com/styles/v1/andy-rutkowski/cl2oal4n5002e14nq9h80a1j1/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiYW5keS1ydXRrb3dza2kiLCJhIjoiWDJRMFVUWSJ9.iHl6Cf0M79wmHQlfP6Bk8Q'
 map-credits: '<a target="_blank" href="https://visualizela.github.io/waterLA/">Water in Los Angeles</a> | Tiles: Mapbox'
-minZoom: 0
-maxZoom: 20
+minZoom: 0 
+maxZoom: 14
 setView: '[34.023690, -118.284930], 10'  # set map center point and zoom. See http://leafletjs.com/reference-1.2.0.html for more info.
 marker-grouping: grouped # sets the default clustering action. Options: grouped, single
 
