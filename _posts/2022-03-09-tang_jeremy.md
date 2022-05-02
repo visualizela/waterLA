@@ -42,9 +42,9 @@ The LA Aqueduct is an essential part of LA’s water history. After all, it is h
 
 3. “Owens River Water.” Calisphere, Los Angeles Public Library, 1 Jan. 1970, https://calisphere.org/item/f3832bc9c92a1f07d1448f0a081d3973/. 
 
-4.“Newspaper Article about Acquisition of Water Rights by Los Angeles.” Newspaper Article about Acquisition of Water Rights by Los Angeles - Loyola Marymount University Digital Collections, https://digitalcollections.lmu.edu/documents/detail/19850. 
+4. “Newspaper Article about Acquisition of Water Rights by Los Angeles.” Newspaper Article about Acquisition of Water Rights by Los Angeles - Loyola Marymount University Digital Collections, https://digitalcollections.lmu.edu/documents/detail/19850. 
 
-5.(Bishop, Detrick Studio. “Occupation of the Alabama Gates, Los Angeles Aqueduct, Owens Valley, California.” Calisphere, Loyola Marymount University, Department of Archives and Special Collections, William H. Hannon Library, 26 Apr. 2019, https://calisphere.org/item/9aa8baf6c47c7e82a89179189acd6460/. 
+5. Bishop, Detrick Studio. “Occupation of the Alabama Gates, Los Angeles Aqueduct, Owens Valley, California.” Calisphere, Loyola Marymount University, Department of Archives and Special Collections, William H. Hannon Library, 26 Apr. 2019, https://calisphere.org/item/9aa8baf6c47c7e82a89179189acd6460/. 
 
-6.Standiford, Les. Water to the Angels: William Mulholland, His Monumental Aqueduct, and the Rise of Los Angeles. Ecco, an Imprint of HarperCollinsPublishers, 2016.
+6. Standiford, Les. Water to the Angels: William Mulholland, His Monumental Aqueduct, and the Rise of Los Angeles. Ecco, an Imprint of HarperCollinsPublishers, 2016.
  
